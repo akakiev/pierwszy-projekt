@@ -9,7 +9,7 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
-# TBD-course-name
+# Programowanie obiektowe
 
 _TBD-course-description_
 
@@ -34,9 +34,9 @@ TBD-step-1-information
 
 ### :keyboard: Activity: TBD-step-1-name
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. TBD-step-1-instructions.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. Przygotowanie środowiska.
+2. Projekt "witaj świecie" w Java’ie.
+3. Projekt “Goodbye, Java!” w Java’ie. [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
 
